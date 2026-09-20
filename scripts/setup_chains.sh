@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # CCTP POC - Local Chain Setup
 # Starts Anvil instances for the Hub plus CLIENT_COUNT client chains (default 2).
